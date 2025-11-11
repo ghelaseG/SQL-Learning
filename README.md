@@ -12,3 +12,4 @@
 - https://learnsql.com/blog/sql-server-cheat-sheet/
 - https://learnsql.com/blog/sql-for-data-analysis-cheat-sheet/
 - https://learnsql.com/blog/intermediate-sql-tricks/
+- https://www.pickl.ai/blog/sql-cheat-sheet/

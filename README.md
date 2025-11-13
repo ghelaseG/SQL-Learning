@@ -14,3 +14,6 @@
 - https://learnsql.com/blog/sql-for-data-analysis-cheat-sheet/
 - https://learnsql.com/blog/intermediate-sql-tricks/
 - https://www.pickl.ai/blog/sql-cheat-sheet/
+
+
+## https://dev.mysql.com/

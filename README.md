@@ -1,5 +1,6 @@
 # SQL-Learning
 - https://www.w3schools.com/sql/
+- https://popsql.com/blog/complex-sql-queries
 - https://www.youtube.com/watch?v=-fW2X7fh7Yg
 - https://www.youtube.com/watch?v=-u-kCJmJHCk
 

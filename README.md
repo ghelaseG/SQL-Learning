@@ -16,5 +16,8 @@
 - https://learnsql.com/blog/intermediate-sql-tricks/
 - https://www.pickl.ai/blog/sql-cheat-sheet/
 
+# Competitions
+- https://programiz.pro/community-challenges/sql
+
 
 ## https://dev.mysql.com/

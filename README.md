@@ -3,6 +3,7 @@
 - https://popsql.com/blog/complex-sql-queries
 - https://www.youtube.com/watch?v=-fW2X7fh7Yg
 - https://www.youtube.com/watch?v=-u-kCJmJHCk
+- https://www.codecademy.com/catalog/language/sql
 
 # SQL Learning the Fun Way
 - https://sqlzoo.net/wiki/SQL_Tutorial

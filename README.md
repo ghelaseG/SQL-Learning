@@ -22,3 +22,4 @@
 
 
 ## https://dev.mysql.com/
+## https://www.youtube.com/watch?v=AW_U0q5BtFI&t=300s
